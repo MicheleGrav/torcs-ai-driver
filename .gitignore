@@ -1,0 +1,8 @@
+# Ignore IDE settings
+.idea/
+
+# Ignore build directories
+bin/
+
+# Ignore system files
+.DS_Store
